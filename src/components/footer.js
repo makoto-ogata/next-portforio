@@ -1,4 +1,5 @@
 import Link from 'next/link';
+import * as style from "../styles/index.module.scss";
 
 const Footer =()=> {
   return(
@@ -16,3 +17,5 @@ const Footer =()=> {
     </footer>
   )
 }
+
+export default Footer;
