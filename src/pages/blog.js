@@ -1,5 +1,5 @@
 import matter from 'gray-matter';
-import Image form 'next/image';
+import Image from 'next/image';
 import Link from 'next/link';
 
 const Blog =(props)=> {
